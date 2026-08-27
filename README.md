@@ -1,6 +1,6 @@
 # INVENTHOR Releases
 
-This repository is the public, release-only download channel for verified INVENTHOR applications and modules.
+This repository is the public, release-only download channel for the verified INVENTHOR **user application** and user-installable modules.
 
 ## Download
 
@@ -19,9 +19,10 @@ https://github.com/inventhor-cloud/inventhor-releases/releases/latest
 
 ## Planned packages
 
-- INVENTHOR main application
+- INVENTHOR user application
 - INVENTHOR Operator
 - Native Runtime Worker
 - Local, hybrid, and cloud connectors
 - Signed module and firmware packages
 
+The private Mimar/Owner application is a different product with a different package identity, signing identity, permission policy, and private release channel. Owner artifacts are never published in this repository.

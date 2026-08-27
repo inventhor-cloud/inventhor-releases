@@ -1,0 +1,15 @@
+{
+  "product_id": "inventhor-main",
+  "version": "0.0.0",
+  "version_code": 0,
+  "channel": "stable",
+  "platform": "android",
+  "artifact": "INVENTHOR.apk",
+  "sha256": "REQUIRED",
+  "signature_sha256": "REQUIRED",
+  "min_core": "REQUIRED",
+  "permissions": [],
+  "test_evidence": "REQUIRED",
+  "rollback_version": "REQUIRED",
+  "published_at": "REQUIRED"
+}
